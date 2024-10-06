@@ -1,3 +1,9 @@
+## Wanted FE Challenge
+
+Implement infinite scroll in one single page using Intersection Observer API.
+
+![화면 기록](https://github.com/user-attachments/assets/73e8969c-cc1b-4cbc-bbf8-e2c60b0d198f)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
